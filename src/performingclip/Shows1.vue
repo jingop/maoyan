@@ -104,7 +104,8 @@
 						客服电话: 4006780950
 					</div>
 				</div>
-				<BackTop>
+				<BackTop>       
+				<!-- style="left: 20px; bottom: 80px;" -->
 					<div class="backtothetop el-icon-arrow-up"></div>
 				</BackTop>
 			</ul>
@@ -1147,6 +1148,12 @@
 		margin-top: 4px;
 		font-size: 25px;
 		line-height: 28px;
+	}
+	/* ivu-back-top */
+	.ivu-back-top-show{
+		bottom: 80px !important;
+		left: 20px !important;
+		right: 0 !important;
 	}
 </style>
 
